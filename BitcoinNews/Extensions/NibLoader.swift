@@ -38,6 +38,4 @@ class NibLoadingView: UIView {
         let nibView = nib.instantiate(withOwner: self, options: nil).first as? UIView
         return nibView ?? UIView()
     }
-    //Hello
-    //World
 }
