@@ -13,9 +13,6 @@
 
 import UIKit
 
-
-//Space
-
 @IBDesignable
 class NibLoadingView: UIView {
     
