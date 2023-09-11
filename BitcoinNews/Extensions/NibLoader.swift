@@ -39,4 +39,3 @@ class NibLoadingView: UIView {
         return nibView ?? UIView()
     }
 }
-//gyhuji
