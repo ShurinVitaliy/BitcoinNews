@@ -13,3 +13,5 @@ extension NSError {
         return NSError(domain: "BitcoinNews", code: -1, userInfo: [NSLocalizedDescriptionKey: description])
     }
 }
+
+//Test 1
