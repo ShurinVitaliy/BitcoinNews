@@ -20,3 +20,6 @@ extension MBProgressHUD {
         hide(animated: true, afterDelay: afterDelay)
     }
 }
+
+
+//Some mr conflict
