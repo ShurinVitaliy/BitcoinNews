@@ -21,9 +21,6 @@ extension MBProgressHUD {
     }
 }
 
-//Test 11
 
-// HERE CONFLICT??
-// YES?
 // Master 2
 // Master 3
