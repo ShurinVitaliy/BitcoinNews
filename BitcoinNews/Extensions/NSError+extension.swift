@@ -8,6 +8,8 @@
 
 import Foundation
 
+
+
 extension NSError {
     static func error(with description: String) -> NSError {
         return NSError(domain: "BitcoinNews", code: -1, userInfo: [NSLocalizedDescriptionKey: description])
