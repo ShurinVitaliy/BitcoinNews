@@ -20,7 +20,4 @@ extension MBProgressHUD {
         hide(animated: true, afterDelay: afterDelay)
     }
 }
-
-
-// Master 2
 // Master 3
